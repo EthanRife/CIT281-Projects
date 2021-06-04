@@ -86,7 +86,7 @@ I now created a REST API that works with a "data" source of questions and answer
 5. [PROJECT 5](https://github.com/EthanRife/cit281-p5.git)
 Learning Objectives
 
-After completing this project, I have:
+After completing this project, I would have:
 
 Gained experience working with classes, including class constructors and methods
 Gained experience interpreting existing code to design a new class, including constructor and methods
@@ -98,12 +98,12 @@ Gained more experience working with objects and arrays
 
 Overview
 
-For this project, you will create a Monster Game program using classes. The game will create monsters with initial life values, and minimum life values for the monster to be alive. Once the game is running, each monster's life will be drained by a random amount, and the game will continue until all of the monsters have died. The game will include a delay before each life drain.
+For this project, you would have created a Monster Game program using classes. The game would create monsters with initial life values, and minimum life values for the monster to be alive. Once the game is running, each monster's life would be drained by a random amount, and the game would continue until all of the monsters have died. The game would include a delay before each life drain.
 
 6. [PROJECT 6](https://github.com/EthanRife/cit281-p6.git)
 Learning Objectives
 
-After completing this project, I have:
+After completing this project, I would have:
 
 - Gained experience creating and working classes with inheritance
 - Gained more experience creating and working with classes
@@ -116,7 +116,7 @@ After completing this project, I have:
 
 Overview
 
-You will be creating three classes. The first class is the Shape class that will serve as a base class for the other two classes. The second class is the Rectangle class that will inherit from Shape class. A class that inherits from another class can be called the child class of the base, or parent, class. The third class is the Triangle class that also will inherit from the Shape class.
+I would have created three classes. The first class is the Shape class that will serve as a base class for the other two classes. The second class is the Rectangle class that will inherit from Shape class. A class that inherits from another class can be called the child class of the base, or parent, class. The third class is the Triangle class that also will inherit from the Shape class.
 
 The base Shape class will provide the common functionality of a method that returns the perimeter value. Each of the other two classes will provide their own versions of a method that returns the area value. 
 
