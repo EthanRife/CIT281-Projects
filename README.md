@@ -8,89 +8,94 @@ In this page I provide links to various projects and labs that I encountered dur
 1. [PROJECT 1](https://github.com/EthanRife/cit281-p1.git)
 Learning Objectives
 
-After completing this project, you will:
+After completing this project, I have:
 
-Gain experience accessing your operating system's command line interface (CLI)
-Gain experience working with CLI commands
-Gain experience working with Visual Studio Code (VSCode)
-Gain experience writing and executing non-web server Node.js JavaScript code
+- Gained experience accessing your operating system's command line interface (CLI)
+- Gained experience working with CLI commands
+- Gained experience working with Visual Studio Code (VSCode)
+- Gained experience writing and executing non-web server Node.js JavaScript code
+
 Overview
 
 Project elements:
 
-Use the command line interface (CLI) of your operating system to create a number of folders
-List the folders in a tree-like structure
-Use the ping command, and practice using the break keyboard sequence
-Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
+- Used the command line interface (CLI) of my operating system to create a number of folders
+- Listed the folders in a tree-like structure
+- Used the ping command, and practiced using the break keyboard sequence
+- Created and executed a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
 
 2. [PROJECT 2](https://github.com/EthanRife/cit281-p2.git)
 Learning Objectives
 
-After completing this project, you will:
+After completing this project, I have:
 
-Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control
-Gain experience writing and executing non-web server Node.js JavaScript code
-Practice refactoring JavaScript code
+- Gained experience using git via your CLI and Visual Studio Code (VSCode) Source Control
+- Gained experience writing and executing non-web server Node.js JavaScript code
+- Practiced refactoring JavaScript code
+
 Overview
 
 Project elements:
 
-Use the command line interface (CLI) of your operating system to create and work with a git repository (repo)
-Refactor the JavaScript program from the previous project to practice using git and practice refactoring
-Use git via VSCode
-Create and use a .gitignore file
-Diff split screen
+- Used the command line interface (CLI) of your operating system to create and work with a git repository (repo)
+- Refactored the JavaScript program from the previous project to practice using git and practice refactoring
+- Used git via VSCode
+- Created and used a .gitignore file
+- Diff split screen
 
 3. [PROJECT 3](https://github.com/EthanRife/cit281-p3.git)
 Learning Objectives
 
-After completing this project, you will:
+After completing this project, I have:
 
-Gain experience interpreting functional descriptions and specifications to complete an assignment
-Gain experience breaking a project into manageable components
-Gain experience writing and executing non-web server Node.js JavaScript code using VSCode
-Practice creating and using code modules
-Practice refactoring using modern JavaScript syntax
-Gain experience writing and executing web server Node.js JavaScript code using VSCode
-Gain experience using Fastify with the GET verb, routes, and query parameters
-Gain experience loading a file and using as a web page
+- Gained experience interpreting functional descriptions and specifications to complete an assignment
+- Gained experience breaking a project into manageable components
+- Gained experience writing and executing non-web server Node.js JavaScript code using VSCode
+- Practiced creating and using code modules
+- Practiced refactoring using modern JavaScript syntax
+- Gained experience writing and executing web server Node.js JavaScript code using VSCode
+- Gained experience using Fastify with the GET verb, routes, and query parameters
+- Gained experience loading a file and using as a web page
+
 Overview
 
-You will be creating a "coinage" code module that is capable of calculating the total value of coin objects. After completing the "coinage" code module functionality, you will then update the "server" code file as a true Node.js web server using the Fastify package. The updated "server" file will display an initial web page with web links to to test the "coinage" code. The initial web page will be loaded from a file.
+I created a "coinage" code module that is capable of calculating the total value of coin objects. After completing the "coinage" code module functionality, I then updated the "server" code file as a true Node.js web server using the Fastify package. The updated "server" file displayed an initial web page with web links to to test the "coinage" code. The initial web page will be loaded from a file.
 
 4. [PROJECT 4](https://github.com/EthanRife/cit281-p4.git)
 Learning Objectives
 
-After completing this project, you will:
+After completing this project, I have:
 
-Gain experience interpreting functional descriptions and specifications to complete an assignment
-Gain experience breaking a project into manageable components
-Gain experience writing and executing non-web server Node.js JavaScript code using VSCode
-Practice creating and using code modules
-Practice using modern JavaScript syntax
-Gain experience writing and executing Node.js REST API server using VSCode
-Gain experience using Fastify with the GET verb, routes, and route parameters
-Gain experience working with static data
-Gain experience testing code module without using a web server
-Gain experience using Postman to test web server routes
-Gain experience working with JSON
-Extra credit: Gain experience using Fastify with POST, PUT, and DELETE verbs
+- Gained experience interpreting functional descriptions and specifications to complete an assignment
+- Gained experience breaking a project into manageable components
+- Gained experience writing and executing non-web server Node.js JavaScript code using VSCode
+- Practiced creating and using code modules
+- Practiced using modern JavaScript syntax
+- Gained experience writing and executing Node.js REST API server using VSCode
+- Gained experience using Fastify with the GET verb, routes, and route parameters
+- Gained experience working with static data
+- Gained experience testing code module without using a web server
+- Gained experience using Postman to test web server routes
+- Gained experience working with JSON
+- Extra credit: Gained experience using Fastify with POST, PUT, and DELETE verbs
+
 Overview
 
-You will be creating a REST API that works with a "data" source of questions and answers. You will create all of the code to work with the data source using a code module, and test the code module code using provided testing code. You will also create a Node.js REST API to handle the GET verb. 
+I now created a REST API that works with a "data" source of questions and answers. I have created all of the code to work with the data source using a code module, and tested the code module code using provided testing code. I have also created a Node.js REST API to handle the GET verb. 
 
 5. [PROJECT 5](https://github.com/EthanRife/cit281-p5.git)
 Learning Objectives
 
-After completing this project, you will:
+After completing this project, I have:
 
-Gain experience working with classes, including class constructors and methods
-Gain experience interpreting existing code to design a new class, including constructor and methods
-Gain more experience working with code modules
-Gain experience executing and debugging Node.js code using VSCode, including module breakpoints
-Gain more experience working with Array map() and forEach() methods
-Gain experience working with the concept of a gaming loop
-Gain more experience working with objects and arrays
+Gained experience working with classes, including class constructors and methods
+Gained experience interpreting existing code to design a new class, including constructor and methods
+Gained more experience working with code modules
+Gained experience executing and debugging Node.js code using VSCode, including module breakpoints
+Gained more experience working with Array map() and forEach() methods
+Gained experience working with the concept of a gaming loop
+Gained more experience working with objects and arrays
+
 Overview
 
 For this project, you will create a Monster Game program using classes. The game will create monsters with initial life values, and minimum life values for the monster to be alive. Once the game is running, each monster's life will be drained by a random amount, and the game will continue until all of the monsters have died. The game will include a delay before each life drain.
@@ -98,16 +103,17 @@ For this project, you will create a Monster Game program using classes. The game
 6. [PROJECT 6](https://github.com/EthanRife/cit281-p6.git)
 Learning Objectives
 
-After completing this project, you will:
+After completing this project, I have:
 
-Gain experience creating and working classes with inheritance
-Gain more experience creating and working with classes
-Gain more experience debugging code
-Gain more experience using a generic block of code to process data
-Gain more experience interpreting functional descriptions and specifications to complete an assignment
-Gain more experience writing and executing non-web server Node.js JavaScript code using VSCode
-Practice using modern JavaScript syntax
-Gain more experience working with static data
+- Gained experience creating and working classes with inheritance
+- Gained more experience creating and working with classes
+- Gained more experience debugging code
+- Gained more experience using a generic block of code to process data
+- Gained more experience interpreting functional descriptions and specifications to complete an assignment
+- Gained more experience writing and executing non-web server Node.js JavaScript code using VSCode
+- Practiced using modern JavaScript syntax
+- Gained more experience working with static data
+
 Overview
 
 You will be creating three classes. The first class is the Shape class that will serve as a base class for the other two classes. The second class is the Rectangle class that will inherit from Shape class. A class that inherits from another class can be called the child class of the base, or parent, class. The third class is the Triangle class that also will inherit from the Shape class.
@@ -117,12 +123,12 @@ The base Shape class will provide the common functionality of a method that retu
 7. [PROJECT 7](https://github.com/EthanRife/CIT281-Projects.git)
 Learning Objectives
 
-Gain more experience working with GitHub repos
-Gain experience working with GitHub Pages
-Create an initial CIT Minor portfolio for your labs and projects
+- Gained more experience working with GitHub repos
+- Gained experience working with GitHub Pages
+- Created an initial CIT Minor portfolio for your labs and projects
 Overview
 
-Rather than a final coding project, this project consists of creating an initial version of your CIT Minor portfolio using GitHub Pages. This project includes:
+This project included:
 
 Creating either an organization-level or user-level GitHub Page, and adding content to this Page. This Page will be the entry web page for your portfolio.
 Creating repos for each of the labs and projects for the CIT 281 class
